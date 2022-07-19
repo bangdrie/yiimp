@@ -141,7 +141,7 @@ $payout_freq = (YAAMP_PAYMENTS_FREQ / 3600) . " hours";
 		</td>
 	</tr>
 	<tr>
-			<td colspan="5"><p class="main-left-box" style="padding: 3px; background-color: #ffffee; font-family: monospace;" id="output">-a  -o stratum+tcp://YAAMP_STRATUM_URL:0000 -u . -p c=</p>
+			<td colspan="5"><p class="main-left-box" style="padding: 3px; text-align: center; background-color: #000000; font-family: monospace;" id="output">-a  -o stratum+tcp://YAAMP_STRATUM_URL:0000 -u . -p c=</p>
 		</td>
 	</tr>
 </tbody>
