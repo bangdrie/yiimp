@@ -142,7 +142,7 @@ function showPageFooter()
 	$year = date("Y", time());
 
 	echo "<p>&copy; $year ".YAAMP_SITE_NAME.' - '.
-		'<a href="https://github.com/bangdrie/yiimp.git">bangdrie Yiimp Script Installer</a></p>';
+		'<a href="https://github.com/bangdrie/yiimp_ubuntu_install_script">bangdrie Yiimp Script Installer</a></p>';
 
 	echo '</div><!-- footer -->';
 }
